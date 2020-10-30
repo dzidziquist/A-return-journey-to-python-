@@ -6,7 +6,7 @@ from user_info import username, password, secret_code
 #let's try to loop till the user gets the login correct 
 count = 0
 
-#after 3 tries block account 
+#after 4 tries block account 
 while count < 4:
 	#allow user to enter username 
 	userinput1 = input('enter your username')
