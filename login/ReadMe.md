@@ -4,3 +4,15 @@ with this script, creating a very simple login where a user is allowed an option
 
 
 The file user_info.py contains the user information. This is the default username, password and secret code created. 
+
+This is how the file_info.py script looks like 
+
+```python
+#User infomation
+
+username = 'Maureen'
+
+password = 'Candies'
+
+secret_code = 'Sweets'
+```
